@@ -2,11 +2,7 @@
 
 ## Project Overview
 
-Utilized Power BI to analyze three months of data for Atliq Grands.
-Provided actionable insights to the revenue team for a 20%
-revenue and market share increase next month.
-Provided data-driven insights for pursuing ambitious growth
-targets.
+Utilized Power BI to analyze three months of data for Atliq Grands. Provided actionable insights to the revenue team for a 20% revenue and market share increase next month. Provided data-driven insights for pursuing ambitious growth targets.
 
 ### Data Source
 Hospitality Domain Data: The primary dataset used for this analysis is the "fact aggregated booking" file, containing detailed information about the hotel booking.
