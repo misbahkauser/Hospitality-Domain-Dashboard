@@ -12,5 +12,6 @@ Hospitality Domain Data: The primary dataset used for this analysis is the "fact
 - MySQL
 - Power BI
 
+### End Result
 
 ![Screenshot 2024-07-17 015846](https://github.com/user-attachments/assets/6af978b9-6f9b-4f2a-b033-e91bda7b34b1)
